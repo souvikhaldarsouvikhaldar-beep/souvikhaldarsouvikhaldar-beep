@@ -58,10 +58,7 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikhaldarsouvikhaldar-beep&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
@@ -72,7 +69,28 @@
 - 📊 High accuracy classification  
 - 🌍 Real-world agriculture impact  
 
-### 🤖 AI Projects
+-🎬 Movie Recommendation System
+-🤖 Machine Learning-based movie recommendation engine
+-🎯 Uses content-based filtering to suggest similar movies
+-📊 Built with Python, Pandas & Scikit-learn
+-🌐 Interactive web app using Streamlit
+-🐳 Containerized with Docker for easy deployment
+-⚡ Recommends movies instantly based on user-selected titles
+
+🔗 [View Project]: (https://github.com/souvikhaldarsouvikhaldar-beep/Movie-Recommendation-System)
+
+- ### 📚 Book Recommendation System
+- 🤖 Machine Learning-based recommendation engine  
+- 🔎 Uses collaborative filtering & popularity-based methods  
+- 📊 Built with Python, Pandas & Scikit-learn  
+- 🌐 Web app using Flask  
+- ⚡ Provides personalized book suggestions  
+
+🔗 [View Project](https://github.com/souvikhaldarsouvikhaldar-beep/Book-Recommendation-System)
+
+---
+
+### 🤖 AI Projects (More Coming...)
 - Computer Vision Models  
 - ML Pipelines  
 - Optimization Techniques  
