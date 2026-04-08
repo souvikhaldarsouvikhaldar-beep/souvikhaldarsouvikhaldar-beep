@@ -20,17 +20,25 @@
 ## 🧠 About Me
 - 🎓 CSE (AI/ML) Student  
 - 📊 CGPA: **9.54**  
-- 🔭 Working on **Deep Learning & Computer Vision**  
-- 🌱 Learning **MLOps, Optimization & Scalable AI Systems**  
-- 🚀 Goal: Build impactful AI solutions  
-
+- 🤖 Working on **Agentic AI, Multi-Agent Systems & LLM Orchestration**  
+- 🌱 Learning **MLOps, Scalable AI Systems, and Workflow Automation**  
+- 🧠 Strong foundation in **Machine Learning & Deep Learning**  
+- 🚀 Goal: Build intelligent products from **models to autonomous agents**
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/souvik-haldar-51563b249"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://leetcode.com/rsJI0qaaTw"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-<a href="https://github.com/souvikhaldarsouvikhaldar-beep"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/souvik-haldar-51563b249">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/rsJI0qaaTw">
+    <img src="https://cdn.simpleicons.org/leetcode" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/souvikhaldarsouvikhaldar-beep">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
 </p>
 
 ---
@@ -50,11 +58,13 @@
 
 ---
 
-## 📊 GitHub Stats (Dynamic)
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souvikhaldarsouvikhaldar-beep&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvikhaldarsouvikhaldar-beep&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=souvikhaldarsouvikhaldar-beep&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=souvikhaldarsouvikhaldar-beep&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 ---
 
@@ -63,11 +73,14 @@
 ---
 
 ## 🧩 Featured Projects
-
 ### 🌿 Leaf Disease Detection
-- 🔍 CNN + ResNeXt based model  
-- 📊 High accuracy classification  
-- 🌍 Real-world agriculture impact  
+- 🔍 Hybrid approach: **Deep Feature Extraction (ResNeXt) + ML Classifiers**
+- 🧠 Identified near-linear separability in feature space  
+- ⚙️ Evaluated models: **SVM (RBF, Linear), KNN, Logistic Regression**  
+- 🏆 Best performance achieved with **SVM (RBF Kernel)**  
+- 📊 Conducted comparative analysis across multiple models  
+- 🧪 Retained CNN models for baseline comparison and experimentation  
+- 🌍 Designed for real-world agricultural disease detection
 
 -🎬 Movie Recommendation System
 -🤖 Machine Learning-based movie recommendation engine
@@ -86,14 +99,18 @@
 - 🌐 Web app using Flask  
 - ⚡ Provides personalized book suggestions  
 
-🔗 [View Project](https://github.com/souvikhaldarsouvikhaldar-beep/Book-Recommendation-System)
+🔗 [View Project]: (https://github.com/souvikhaldarsouvikhaldar-beep/Book-Recommendation-System)
 
 ---
 
-### 🤖 AI Projects (More Coming...)
-- Computer Vision Models  
-- ML Pipelines  
-- Optimization Techniques  
+### 🚀 Currently Building
+- 🚧 **Multi-Agent Research Synthesizer** *(Team Project | WIP)*  
+  An autonomous research system where multiple AI agents collaborate for information retrieval, reasoning, synthesis, and report generation.  
+
+### 🤖 AI Engineering
+- ML & Deep Learning Systems  
+- LLM Orchestration  
+- AI Workflow Automation  
 
 ---
 
