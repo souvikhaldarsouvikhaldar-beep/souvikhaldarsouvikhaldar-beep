@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Haldar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress;Deep+Learning+Enthusiast;Computer+Vision+Builder;Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress;Deep+Learning+Enthusiast;lines=Building+Agentic+AI+Systems;Multi-Agent+Research+%26+Automation;Turning+Data+into+Intelligence" />
 </p>
 
 ---
