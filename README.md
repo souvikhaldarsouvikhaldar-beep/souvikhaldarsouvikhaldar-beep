@@ -103,16 +103,7 @@
 
 ---
 
-### 🚀 Currently Building
-- 🚧 **Multi-Agent Research Synthesizer** *(Team Project | WIP)*  
-  An autonomous research system where multiple AI agents collaborate for information retrieval, reasoning, synthesis, and report generation.  
 
-### 🤖 AI Engineering
-- ML & Deep Learning Systems  
-- LLM Orchestration  
-- AI Workflow Automation  
-
----
 
 ## 🏆 LeetCode Stats
 <p align="center">
