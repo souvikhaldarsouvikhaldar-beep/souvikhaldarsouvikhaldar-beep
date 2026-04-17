@@ -84,7 +84,7 @@
 
 🔗 [View Project]: (https://github.com/souvikhaldarsouvikhaldar-beep/betel-leaf-disease-prediction)
 
--🎬 Movie Recommendation System
+### 🎬 Movie Recommendation System
 -🤖 Machine Learning-based movie recommendation engine
 -🎯 Uses content-based filtering to suggest similar movies
 -📊 Built with Python, Pandas & Scikit-learn
