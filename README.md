@@ -73,7 +73,7 @@
 ---
 
 ## 🧩 Featured Projects
-### 🌿 Leaf Disease Detection
+- ### 🌿 Leaf Disease Detection
 - 🔍 Hybrid approach: **Deep Feature Extraction (ResNeXt) + ML Classifiers**
 - 🧠 Identified near-linear separability in feature space  
 - ⚙️ Evaluated models: **SVM (RBF, Linear), KNN, Logistic Regression**  
@@ -84,13 +84,13 @@
 
 🔗 [View Project]: (https://github.com/souvikhaldarsouvikhaldar-beep/betel-leaf-disease-prediction)
 
-### 🎬 Movie Recommendation System
--🤖 Machine Learning-based movie recommendation engine
--🎯 Uses content-based filtering to suggest similar movies
--📊 Built with Python, Pandas & Scikit-learn
--🌐 Interactive web app using Streamlit
--🐳 Containerized with Docker for easy deployment
--⚡ Recommends movies instantly based on user-selected titles
+- ### 🎬 Movie Recommendation System
+- 🤖 Machine Learning-based movie recommendation engine
+- 🎯 Uses content-based filtering to suggest similar movies
+- 📊 Built with Python, Pandas & Scikit-learn
+- 🌐 Interactive web app using Streamlit
+- 🐳 Containerized with Docker for easy deployment
+- ⚡ Recommends movies instantly based on user-selected titles
 
 🔗 [View Project]: (https://github.com/souvikhaldarsouvikhaldar-beep/Movie-Recommendation-System)
 
