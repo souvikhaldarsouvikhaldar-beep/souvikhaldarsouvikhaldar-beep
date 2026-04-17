@@ -82,6 +82,8 @@
 - 🧪 Retained CNN models for baseline comparison and experimentation  
 - 🌍 Designed for real-world agricultural disease detection
 
+🔗 [View Project]: (https://github.com/souvikhaldarsouvikhaldar-beep/betel-leaf-disease-prediction)
+
 -🎬 Movie Recommendation System
 -🤖 Machine Learning-based movie recommendation engine
 -🎯 Uses content-based filtering to suggest similar movies
